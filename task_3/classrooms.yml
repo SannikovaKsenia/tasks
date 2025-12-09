@@ -1,0 +1,16 @@
+# Данные об аудиториях
+university: "Технический Университет"
+classrooms:
+  - id: 101
+    name: "Аудитория 101"
+    capacity: 30
+    computers:
+      - "PC-101-01"
+      - "PC-101-02"
+      - "PC-101-03"
+  - id: 102
+    name: "Аудитория 102"
+    capacity: 20
+    computers:
+      - "PC-102-01"
+      - "PC-102-02"
